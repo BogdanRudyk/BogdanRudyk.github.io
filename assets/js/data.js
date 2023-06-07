@@ -39,14 +39,5 @@ export const data = [
         group: "Kendrick Lamar",
         year: 2013,
     },
-    {
-        id: 1,
-        link: "beat1.mp3",
-        genre: "Rock",
-        track: "А ты?",
-        group: "Серега Пират",
-        year: 2021,
-    },
-
 
 ]
