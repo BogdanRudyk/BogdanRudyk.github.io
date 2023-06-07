@@ -1,7 +1,7 @@
 export const data = [
     {
         id: 1,
-        link: "beat2.mp3",
+        link: "daryana, daybe - Заставлял.mp3",
         genre: "Rap",
         track: "Vamp Anthem",
         group: "Playboi Carti",
@@ -9,7 +9,7 @@ export const data = [
     },
     {
         id: 2,
-        link: "beat6.mp3",
+        link: "Poshlaya_Molli_HOFMANNITA_-_HABIBATI_(musmore.com).mp3",
         genre: "Rap",
         track: "Yonkers",
         group: "Tyler, The Creator",
@@ -17,7 +17,7 @@ export const data = [
     },
     {
         id: 3,
-        link: "beat3.mp3",
+        link: "MORGENSHTERN - ПОСОСИ.mp3",
         genre: "Rock",
         track: "Heroes",
         group: "David Bowie",
@@ -25,7 +25,7 @@ export const data = [
     },
     {
         id: 4,
-        link: "beat5.mp3",
+        link: "Oxxxymiron - Мох.mp3",
         genre: "Alternative",
         track: "Is It True",
         group: "Tame Impala",
@@ -33,7 +33,7 @@ export const data = [
     },
     {
         id: 5,
-        link: "beat4.mp3",
+        link: "серега_пират_песня_в_поддержку_китайцев.mp3",
         genre: "Rap",
         track: "Money Trees",
         group: "Kendrick Lamar",
@@ -41,7 +41,7 @@ export const data = [
     },
     {
         id: 6,
-        link: "beat1.mp3",
+        link: "СЕРЕГА ПИРАТ - Качалка.mp3",
         genre: "Rock",
         track: "А ты?",
         group: "Серега Пират",
