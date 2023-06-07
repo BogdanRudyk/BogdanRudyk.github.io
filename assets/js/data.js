@@ -1,7 +1,7 @@
 export const data = [
     {
         id: 1,
-        link: "beat6.mp3",
+        link: "beat2.mp3",
         genre: "Rap",
         track: "Vamp Anthem",
         group: "Playboi Carti",
@@ -9,7 +9,7 @@ export const data = [
     },
     {
         id: 2,
-        link: "beat1.mp3",
+        link: "beat6.mp3",
         genre: "Rap",
         track: "Yonkers",
         group: "Tyler, The Creator",
@@ -25,7 +25,7 @@ export const data = [
     },
     {
         id: 4,
-        link: "beat4.mp3",
+        link: "beat5.mp3",
         genre: "Alternative",
         track: "Is It True",
         group: "Tame Impala",
@@ -33,7 +33,7 @@ export const data = [
     },
     {
         id: 5,
-        link: "beat5.mp3",
+        link: "beat4.mp3",
         genre: "Rap",
         track: "Money Trees",
         group: "Kendrick Lamar",
@@ -41,10 +41,12 @@ export const data = [
     },
     {
         id: 6,
-        link: "beat2.mp3",
+        link: "beat1.mp3",
         genre: "Rock",
         track: "А ты?",
         group: "Серега Пират",
         year: 2021,
     },
+
+
 ]
