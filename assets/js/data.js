@@ -1,6 +1,6 @@
 export const data = [
     {
-        id: 1,
+        id: 2,
         link: "beat2.mp3",
         genre: "Rap",
         track: "Vamp Anthem",
@@ -8,7 +8,7 @@ export const data = [
         year: 2020,
     },
     {
-        id: 2,
+        id: 6,
         link: "beat6.mp3",
         genre: "Rap",
         track: "Yonkers",
@@ -24,7 +24,7 @@ export const data = [
         year: 1977,
     },
     {
-        id: 4,
+        id: 5,
         link: "beat5.mp3",
         genre: "Alternative",
         track: "Is It True",
@@ -32,7 +32,7 @@ export const data = [
         year: 2020,
     },
     {
-        id: 5,
+        id: 4,
         link: "beat4.mp3",
         genre: "Rap",
         track: "Money Trees",
@@ -40,7 +40,7 @@ export const data = [
         year: 2013,
     },
     {
-        id: 6,
+        id: 1,
         link: "beat1.mp3",
         genre: "Rock",
         track: "А ты?",
